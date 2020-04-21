@@ -4,7 +4,7 @@
 	"description": "crm",
 	"main": "index.js",
 	"scripts": {
-		"start": "node node index.js",
+		"start": "node .",
 		"dev": "nodemon ."
 	},
 	"author": "obedh jared farfan ek",
